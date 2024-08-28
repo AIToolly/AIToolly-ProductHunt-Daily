@@ -1,0 +1,7 @@
+name = "aitoolly-producthunt-daily"
+main = "src/index.js"
+compatibility_date = "2023-08-23"
+
+[[d1_databases]]
+binding = "DATABASE"
+database_id = "Your D1 Database ID"
