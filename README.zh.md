@@ -1,6 +1,6 @@
 # AIToolly Product Hunt  数据爬取和 Markdown 生成工具
 ## 项目简介
-本项目是基于 Cloudflare Worker、D1 数据库和 OpenAI API 的 Product Hunt 数据爬取和 Markdown 生成工具。它可以自动获取 Product Hunt 数据，生成 Markdown 内容，并将所有信息保存到 D1 数据库中。
+本项目是基于 Cloudflare Worker、D1 数据库、 OpenAI API 。 通过worker 定时器 每天自动获取 Product Hunt 数据，生成 Markdown 日报内容，并将所有信息保存到 D1 数据库中。
 
 ## 项目来源
 灵感来源：https://github.com/ViggoZ/producthunt-daily-hot
